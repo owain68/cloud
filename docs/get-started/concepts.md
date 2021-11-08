@@ -33,7 +33,7 @@ See [here](/cloud/docs/apps/api) for more information.
 
 ## Serverless Data 
 
-Serverless Data is a powerful, scaleable datastore that's built-in to Serverless Cloud. Every instance on Serverless Cloud has its isolated, completely independent copy of application data powered by Serverless Data. In order to use Serverless Data programmatically, `data` helper with `get`, `set`, and `remove` commands is used. You can use these comamnds to interact with application data in single-digit-ms response times. 
+Serverless Data is a powerful, scaleable datastore that's built-in to Serverless Cloud. Every instance on Serverless Cloud has its isolated, completely independent copy of application data powered by Serverless Data. In order to use Serverless Data programmatically, `data` helper with `get`, `set`, and `remove` commands is used. You can use these commands to interact with application data in single-digit-ms response times. 
 
 You can also seed data to your **personal instance** from a seed file (data.json by default), export and import data from your personal instance. See [here](/cloud/docs/apps/data) for more information. 
 
